@@ -65,4 +65,8 @@ cost: 0.00010223536
 W: 0.1 b: 0.2 W_hat: [[0.09540579]] b_hat [0.2019255]
 
 这里W_hat和b_hat近似于设置的W和b
+
+github desktop test in 10.34 2019/7/8
+
+github desktop test in 10.36 2019/7/8
 '''
