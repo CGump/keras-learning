@@ -30,3 +30,5 @@ model.save_weights(filepath)：将模型权重保存到指定路径，文件类�
 model.load_weights(filepath, by_name=False)：从HDF5文件中加载权重到当前模型中, 默认情况下模型的结构将保持不变。如果想将权重载入不同的模型（有些层相同）中，则设置by_name=True，只有名字匹配的层才会载入权重
 
 '''
+
+# 今天交倩宝宝用github
