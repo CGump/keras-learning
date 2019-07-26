@@ -31,4 +31,4 @@ model.load_weights(filepath, by_name=False)：从HDF5文件中加载权重到当
 
 '''
 
-# 今天交倩宝宝用github
+# 今天教倩宝宝用github
